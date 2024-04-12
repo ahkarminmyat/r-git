@@ -13,6 +13,11 @@ git init
 
 # check git status
 git status
+git status --short
+?? - Untracked files
+A - Files added to stage
+M - Modified files
+D - Deleted files
 
 # add staging 
 git add filename.fileextension
