@@ -1,5 +1,7 @@
 {
     "name":"s9admin",
     "username":"sa",
-    "password":"1qaz!QAZ"
+    "password":"1qaz!QAZ",
+    "ip":"192.168.110.14",
+    "dbconnection":"ODBC"
 }

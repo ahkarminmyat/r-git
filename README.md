@@ -21,7 +21,24 @@ D - Deleted files
 
 # add staging 
 git add filename.fileextension
-git add all
+git add --all
 
 # git commit
 git commit -m "message"
+
+# git log
+git log
+- to esacpe from git log press q or z
+
+# git helo
+git help
+git help --all
+
+# create new branch
+git branch branch-name
+
+# list branch
+git branch
+
+# check-out branch
+git check-out branch-name
