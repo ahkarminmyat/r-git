@@ -42,3 +42,12 @@ git branch
 
 # check-out branch
 git check-out branch-name
+
+# git merge
+git merge branch-name
+
+# git delete branch
+git branch -d branch-name
+
+# git push
+git push origin branch-name
