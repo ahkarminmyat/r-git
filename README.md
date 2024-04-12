@@ -13,3 +13,10 @@ git init
 
 # check git status
 git status
+
+# add staging 
+git add filename.fileextension
+git add all
+
+# git commit
+git commit -m "message"
