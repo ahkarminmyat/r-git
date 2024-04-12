@@ -30,7 +30,7 @@ git commit -m "message"
 git log
 - to esacpe from git log press q or z
 
-# git helo
+# git help
 git help
 git help --all
 
