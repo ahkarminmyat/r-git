@@ -1,0 +1,5 @@
+USE [master]
+  Go
+  
+ALTER DATABASE s9admin
+SET SINGLE-USER MODE;
