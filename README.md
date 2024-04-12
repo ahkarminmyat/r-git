@@ -51,3 +51,6 @@ git branch -d branch-name
 
 # git push
 git push origin branch-name
+
+# git pull
+git pull origin branch-name
