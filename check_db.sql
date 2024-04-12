@@ -9,3 +9,6 @@ SELECT A.DatabaseName,SUM(A.Size) Size,SUM(A.SizeGB) SizeGB,SUM(A.SizeMB) SizeMB
 FROM sys.master_files
 WHERE database_id > 4) A
 GROUP BY A.DatabaseName
+
+# check db connection
+SELECT * FROM sys.dm_exec_sessions

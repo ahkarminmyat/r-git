@@ -3,5 +3,6 @@
     "username":"sa",
     "password":"1qaz!QAZ",
     "ip":"192.168.110.14",
-    "dbconnection":"ODBC"
+    "dbconnection":"ODBC",
+    "version": "19"
 }

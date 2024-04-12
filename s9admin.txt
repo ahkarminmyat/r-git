@@ -1,0 +1,4 @@
+# s9admin database
+
+USE [master]
+CREATE DATABASE s9amin;
